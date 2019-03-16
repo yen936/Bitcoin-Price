@@ -1,7 +1,5 @@
 # Bitcoin Price
 > A iOS app for presenting Bitcoin prices with currency conversion.
-
-
 ![](header.png)
 
 ## Screenshots
