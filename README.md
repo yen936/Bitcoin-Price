@@ -10,6 +10,9 @@ A few motivating and useful examples of how your product can be used. Spice this
 ![alt text](https://github.com/yen936/Bitcoin-Price/blob/master/images/BTC-ERO.png)
 
 
+![alt text](https://github.com/yen936/Bitcoin-Price/blob/master/images/BTC-USD.png)
+
+
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
