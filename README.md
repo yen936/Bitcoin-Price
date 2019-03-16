@@ -7,7 +7,7 @@
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 <!-- Markdown link & img dfn's -->
