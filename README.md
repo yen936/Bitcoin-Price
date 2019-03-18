@@ -1,6 +1,10 @@
 # Bitcoin Price
-> A iOS app for presenting Bitcoin prices with currency conversion.
-![](header.png)
+> A iOS app for presenting Bitcoin prices with currency conversion. 
+
+## Skills/Tech Used:
+* Alamofire
+* SwiftyJSON
+
 
 ## Screenshots
 Bitcoin price fetches current price data in various currencies.
