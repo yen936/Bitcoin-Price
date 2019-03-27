@@ -17,4 +17,3 @@ Bitcoin price fetches current price data in various currencies.
 ### USD
 ![alt text](https://github.com/yen936/Bitcoin-Price/blob/master/images/BTC-USD.png)
 
-
